@@ -16,6 +16,22 @@ A simple CLI tool to generate [CUID2](https://github.com/paralleldrive/cuid2) ID
 
 ## 📦 Installation
 
+### ✅ From **npm** (recommended)
+
+Install globally from npm:
+
+```bash
+sudo npm install -g gen-cuid2
+```
+
+Then use it:
+
+```bash
+gen-cuid2
+```
+
+### ⚙️ From **source** (for development / custom builds)
+
 ```bash
 # Clone the repository
 git clone https://github.com/cblauvelt/gen-cuid2.git
